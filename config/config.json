@@ -1,0 +1,14 @@
+
+
+{
+
+    "development": {
+        "username": "root",
+        "password": "lili8l",
+        "database": "delish_second",
+        "host": "localhost",
+        "dialect": "mariadb"
+
+
+    }
+}
